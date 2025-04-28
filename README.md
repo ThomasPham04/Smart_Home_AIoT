@@ -45,7 +45,7 @@ The system follows an **AIoT architecture**:
    - Connect sensors, servo, RGB LED, motor, and LCD to Yolo:Bit as per the pin configuration (refer to `pin_config.md` in the repo).
    - Ensure a stable power supply for all components.
 2. **Software Setup**:
-   - Install MicroPython firmware on Yolo:Bit using Thonny IDE.
+   - Install MicroPython firmware on Yolo:Bit using MicroPython IDE.
    - Clone this repository:
      ```bash
      git clone https://github.com/[your-username]/smart-home-yolobit.git
